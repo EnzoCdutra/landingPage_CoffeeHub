@@ -1,10 +1,11 @@
 # ☕ CoffeHub Landing Page
 
 Bem-vindo ao Coffehub!
+![Readme](https://github.com/EnzoCdutra/landingPage_CoffeeHub/assets/128257870/f63ac80c-c5a0-4d4a-80e6-f11eb09716e1)
 
-![alt text](assets/Readme.jpeg)
 ## Versão Mobile
-![alt text](assets/mobile.png)
+![mobile](https://github.com/EnzoCdutra/landingPage_CoffeeHub/assets/128257870/140ba2da-39df-4aa7-bc60-0336ebbbb0f9)
+
 ## Sobre o Projeto
 
 Este é um projeto simples de uma landing page,Em andamento, para promover o melhor do CoffeHub , uma marca fictícia de café .
